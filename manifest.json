@@ -43,6 +43,7 @@
   ],
   "browser_action": {
     "default_icon": "images/icon.png",
-    "default_popup": "index.html"
+    "default_popup": "index.html",
+    "default_title": "Wayback Machine"
   }
 }
